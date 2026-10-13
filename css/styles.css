@@ -887,7 +887,7 @@ a {
 }
 
 .timeline-item li::before {
-  content: "\2014";
+  content: "\2022";
   position: absolute;
   left: 0;
   color: var(--accent);
